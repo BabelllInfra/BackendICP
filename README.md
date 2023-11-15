@@ -1,4 +1,4 @@
-# Basic Bitcoin example
+# Basic Bitcoin
 
 ## Deploying your first Bitcoin dapp
 
